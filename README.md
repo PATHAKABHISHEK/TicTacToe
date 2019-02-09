@@ -1,2 +1,2 @@
-# Sudoku
-Sudoku is an android game.
+# TicTacToe
+TicTacToe is an android game.
